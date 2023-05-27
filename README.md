@@ -1,2 +1,3 @@
 My first readme
-confused
+git command line used: git checkout -b update_script
+
